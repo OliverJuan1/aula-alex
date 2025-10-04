@@ -1,6 +1,7 @@
 {
-  "name": "revilo",
+  "name": "tin-backend",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node --watch src/app.js",
@@ -10,9 +11,8 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "mysql2": "^3.15.0"
+    "mysql2": "^3.15.1"
   }
 }
